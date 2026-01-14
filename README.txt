@@ -83,7 +83,8 @@ Utilizar el dashboard como herramienta de seguimiento para la toma de decisiones
 
 🖼️ Vista previa del dashboard
 
-![Dashboard de Ventas](Dashboard_Electrohogar.png)
+![Dashboard de Ventas](Dashboard_Electrohogar.PNG)
+
 
 
 
