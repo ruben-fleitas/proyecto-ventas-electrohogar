@@ -81,11 +81,7 @@ Analizar y replicar las estrategias comerciales del vendedor con mejor desempeñ
 
 Utilizar el dashboard como herramienta de seguimiento para la toma de decisiones.
 
-🖼️ Vista previa del dashboard
 
-![Dashboard de Ventas](Dashboard_Electrohogar.PNG)
-
-<img src="Dashboard_Electrohogar.PNG" width="900">
 
 
 
