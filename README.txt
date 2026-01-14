@@ -80,3 +80,10 @@ Potenciar la venta cruzada de pequeños electrodomésticos por su alto margen.
 Analizar y replicar las estrategias comerciales del vendedor con mejor desempeño.
 
 Utilizar el dashboard como herramienta de seguimiento para la toma de decisiones.
+
+🖼️ Vista previa del dashboard
+
+![Dashboard de Ventas](Dashboard_Electrohogar.png)
+
+
+
